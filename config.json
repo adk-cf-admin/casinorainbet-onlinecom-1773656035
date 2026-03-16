@@ -1,0 +1,210 @@
+{
+    "globalSections": {
+        "styles": {
+            "bg": "#191F3B",
+            "lang-select-color": "#222829",
+            "bg-light": "#191F3B",
+            "welcome-bonus-bg": "#191F3B",
+            "top-games-hover-fg": "#ffffff",
+            "main-bg": "#313d73",
+            "text": "#ffffff",
+            "text-black": "#ffffff",
+            "table-head": "#0077DB",
+            "text-head": "#ffffff",
+            "hero-title-text": "#222829",
+            "welcome-bonus-text": "#0077DB",
+            "yellow": "#3e4882",
+            "yellow-button": "#0077DB",
+            "button-text": "#ffffff",
+            "main-button-text": "#ffffff",
+            "border-color": "#efefdc",
+            "casino-cards": "#191F3B",
+            "bonus-border-head": "#efefdc",
+            "bonus-border": "#ffffff",
+            "providers-back": "#191F3B",
+            "faq-label": "#191F3B",
+            "bg-footer": "#191F3B",
+            "copyright": "#e7e7d5",
+            "starColor": "#0077DB",
+            "baseFont": {
+                "value": "Roboto",
+                "isCustom": false
+            },
+            "primaryFont": {
+                "value": "Inter",
+                "isCustom": false
+            }
+        },
+        "icons": {
+            "icon192": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/4467"
+        },
+        "header": {
+            "logo": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/4468",
+            "imageSizeModifier": 0,
+            "imageYModifier": 0,
+            "imageXModifier": 0,
+            "logoAlt": "Rainbet Logo"
+        },
+        "nav": {
+            "signUp": "Sign Up",
+            "playNow": "Play Now"
+        },
+        "footer": {
+            "logo": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/4469",
+            "imageSizeModifier": 0,
+            "imageYModifier": 0,
+            "imageXModifier": 0,
+            "copyright": "Rainbet"
+        }
+    },
+    "pages": [
+        {
+            "id": "en-au-en-AU",
+            "path": "\/",
+            "name": "Английский",
+            "languageCode": "en",
+            "regionCode": "AU",
+            "isDefault": true,
+            "sections": {
+                "seo": {
+                    "name": "Rainbet",
+                    "title": "Rainbet Casino Australia — Fast Crypto Payouts & 250% Bonus",
+                    "description": "Play at Rainbet Casino Australia with 6000+ pokies & live dealer games. Enjoy instant crypto withdrawals, 250% bonus up to AU$2,100 & 24\/7 support. Join today!\n",
+                    "canonical": "casinorainbet-online.com",
+                    "ogImage": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/4470",
+                    "ogImageWidth": 1200,
+                    "ogImageHeight": 630,
+                    "twitterSite": "casinorainbet-online.com",
+                    "favicon": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/4471"
+                },
+                "hero": {
+                    "title": "Premium Crypto Casino Experience in Australia",
+                    "textDesktop": "Exclusive welcome offer of",
+                    "textMobile": "Exclusive welcome bonus of",
+                    "playGame": "Play game",
+                    "claimBonus": "Claim Bonus",
+                    "image": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/4472",
+                    "imageSizeModifier": 0,
+                    "imageYModifier": -5,
+                    "imageXModifier": 0,
+                    "mobileImage": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/4473",
+                    "mobileImageSizeModifier": -5,
+                    "mobileImageYModifier": 1,
+                    "mobileImageXModifier": 0
+                },
+                "topCasino": {
+                    "topCasinoButtonText": "Claim Bonus",
+                    "title": "Top Casinos",
+                    "allCasino": "All Casino",
+                    "welcomeBonusText": "Welcome bonus"
+                },
+                "bonusDetails": {
+                    "title": "Bonus Details",
+                    "getBonusButtonText": "Get Bonus",
+                    "maximumAmountText": "Maximum amount",
+                    "wagerText": "Wager",
+                    "bonusCodeText": "Bonus Code",
+                    "casino": "Casino",
+                    "bonuses": "Bonuses",
+                    "rate": "Rate",
+                    "freeSpins": "Free Spins",
+                    "moreInfo": "More Info",
+                    "get": "Get",
+                    "refresh": "Refresh"
+                },
+                "advantages": {
+                    "title": "Advantages",
+                    "advantagesBeforeText": "Looking for a trusted crypto casino in Australia? We operate under a recognized Anjouan license, offering provably fair gaming, instant crypto payouts, and dedicated 24\/7 support for Aussie players. Here is why we are the preferred choice:\n",
+                    "items": [
+                        "6,000+ pokies and live games from Pragmatic Play & Evolution",
+                        "Instant crypto withdrawals via BTC, ETH, USDT, and Solana",
+                        "Massive 250% welcome package up to AU$2,100 + 60 Free Spins",
+                        "Exclusive Provably Fair Rainbet Originals like Plinko and Dice",
+                        "Automated daily rakeback rewards, weekly raffles, and VIP races"
+                    ],
+                    "advantagesAfterText": "Join thousands of satisfied Australian players enjoying secure crypto gambling. Our platform guarantees provably fair outcomes and instant access to your winnings anytime.\n",
+                    "knowMore": "Know more",
+                    "appTitle": "Rainbet App",
+                    "mobile": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/4474",
+                    "imageSizeModifier": 0,
+                    "imageYModifier": 0,
+                    "imageXModifier": 0,
+                    "mobileAlt": "Rainbet App",
+                    "mobileGooglePlayImageTitle": "Rainbet App",
+                    "mobileIosImageTitle": "Rainbet App"
+                },
+                "games": {
+                    "playNowText": "Play now",
+                    "title": "Popular Games",
+                    "allGames": "All Games"
+                },
+                "about": {
+                    "history": {
+                        "title": "About Rainbet Casino",
+                        "description1": "As a leading crypto gambling platform serving Australia, we've revolutionized online betting. We offer a massive library of over 6,000 top-tier pokies, table games, and exclusive provably fair Originals designed for fast-paced action.\n",
+                        "items": [
+                            "Expanded portfolio to over 6,000 premium casino games",
+                            "Introduced exclusive Provably Fair Rainbet Originals",
+                            "Integrated 20+ major cryptocurrencies for instant banking"
+                        ],
+                        "description2": "We operate under a verified Anjouan eGaming license, ensuring strict compliance. Our platform utilizes advanced SSL encryption to safeguard crypto transactions, while our games feature certified random outcomes.\n",
+                        "image": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/4475",
+                        "imageSizeModifier": 0,
+                        "imageYModifier": 0,
+                        "imageXModifier": 0,
+                        "imageAlt": "History",
+                        "description3": "We continuously enhance our platform with new features and bigger tournaments for Aussie players. With our generous rakeback system and responsible gaming tools, we provide a secure and rewarding environment. Join us today!\n"
+                    }
+                },
+                "custom": {
+                    "customHtml": {
+                        "title": "Complete Gaming Portfolio for Aussies",
+                        "description": "<h2>Complete Gaming Portfolio for Aussies<\/h2>\n\n<p>Our comprehensive gaming platform brings the ultimate online casino experience directly to players in Australia. Operating under a strictly regulated Anjouan license, we have partnered with over 45 industry-leading software providers to deliver a massive library of more than 6,000 premium games. Whether you are looking for high-volatility pokies, strategic table games, or real-time live dealer action, our portfolio is meticulously curated to meet the diverse preferences of Aussie gamblers. We continuously update our lobby with the latest releases, ensuring that our players always have access to cutting-edge graphics, innovative mechanics, and rewarding bonus features. Every single game on our platform is powered by certified Random Number Generators (RNG), guaranteeing complete fairness and unpredictable outcomes for every spin, roll, and deal.<\/p>\n\n<h3>Premium Online Pokies Collection<\/h3>\n<p>Pokies remain the absolute favorite among Australian players, which is why we dedicate a massive portion of our library to these thrilling games. Our collection features thousands of titles from top-tier studios like Pragmatic Play, Hacksaw Gaming, BGaming, and NoLimit City. We understand that every player has unique tastes, so we have categorized our pokies into various themes and mechanical structures. From classic fruit machines that evoke a sense of nostalgia to complex video slots featuring intricate storylines and multi-level bonus rounds, the variety is virtually endless. Players can enjoy advanced mechanics that offer massive payout potential and dynamic gameplay experiences.<\/p>\n\n<p>Furthermore, we pride ourselves on offering specialized tournaments and network promotions connected to these pokies. Through our partnerships with major studios, Australian players can participate in massive events like Pragmatic Play's Drops & Wins. These promotions feature random daily cash prizes and weekly leaderboard tournaments that distribute millions of dollars in extra rewards. Our intuitive lobby allows you to effortlessly filter games by provider, volatility, and specific bonus features, ensuring that you can instantly find the perfect pokie to suit your current gaming mood.<\/p>\n\n<ul style=\"padding-left: 25px; margin-bottom: 15px; list-style-position: outside;\">\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\">\n    <strong>Megaways Mechanics:<\/strong> Developed by Big Time Gaming, this revolutionary engine modifies the number of symbols on each reel during every spin. This dynamic setup can create up to 117,649 ways to win, offering thrilling chain reactions, cascading symbols, and escalating multipliers that keep the excitement high.\n  <\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\">\n    <strong>Bonus Buy Features:<\/strong> For Aussie players who prefer instant action, our Bonus Buy category allows you to skip the base game grind and purchase direct entry into the free spins or bonus rounds. Games like Sweet Bonanza and Gates of Olympus offer this feature, letting you access the highest paying segments immediately.\n  <\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\">\n    <strong>Progressive Jackpots:<\/strong> We host a selection of high-stakes jackpot pokies where a fraction of every wager contributes to a massive, continually growing prize pool. These games offer the potential for life-changing payouts, with some pools reaching into the millions before a lucky player triggers the ultimate reward.\n  <\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\">\n    <strong>High Volatility Slots:<\/strong> Perfect for risk-takers seeking substantial wins, our high volatility pokies from providers like Hacksaw Gaming feature massive maximum win caps, often reaching 10,000x or even 50,000x your initial stake. While payouts may be less frequent, the potential rewards are monumental.\n  <\/li>\n<\/ul>\n\n<h3>What are the best RTP pokies available?<\/h3>\n<p>Our top payout pokies consistently offer Return to Player percentages above 96.5%, maximizing your long-term winning potential.<\/p>\n<p>For players focused on strategic bankroll management, RTP (Return to Player) is a critical metric. A higher RTP theoretically indicates a lower house edge over an extended playing session. We prioritize transparency by clearly displaying game statistics, allowing you to choose titles that align with your financial strategies. Popular games like Blood Suckers by NetEnt offer a staggering 98% RTP, making them highly sought after by experienced gamblers. By selecting high-yielding games, Australian players can effectively extend their gameplay sessions and optimize their chances of securing profitable returns.<\/p>\n\n<table style=\"width: 100%; border-collapse: collapse; margin: 20px auto; font-size: 14px;\">\n  <thead>\n    <tr style=\"background-color: #1884e1;\">\n      <th style=\"border: 1px solid #ffffff; padding: 8px; text-align: left; color: #ffffff; font-weight: bold;\">Pokie<\/th>\n      <th style=\"border: 1px solid #ffffff; padding: 8px; text-align: left; color: #ffffff; font-weight: bold;\">Studio<\/th>\n      <th style=\"border: 1px solid #ffffff; padding: 8px; text-align: left; color: #ffffff; font-weight: bold;\">RTP<\/th>\n    <\/tr>\n  <\/thead>\n  <tbody>\n    <tr style=\"background-color: #1c1e29;\">\n      <td style=\"border: 1px solid #ffffff; padding: 8px; color: #ffffff;\"><strong>Blood Suckers<\/strong><\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 8px; color: #ffffff;\">NetEnt<\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 8px; color: #ffffff;\">98.00%<\/td>\n    <\/tr>\n    <tr style=\"background-color: #252836;\">\n      <td style=\"border: 1px solid #ffffff; padding: 8px; color: #ffffff;\"><strong>Sweet Bonanza<\/strong><\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 8px; color: #ffffff;\">Pragmatic<\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 8px; color: #ffffff;\">96.51%<\/td>\n    <\/tr>\n    <tr style=\"background-color: #1c1e29;\">\n      <td style=\"border: 1px solid #ffffff; padding: 8px; color: #ffffff;\"><strong>Wanted Dead<\/strong><\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 8px; color: #ffffff;\">Hacksaw<\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 8px; color: #ffffff;\">96.38%<\/td>\n    <\/tr>\n    <tr style=\"background-color: #252836;\">\n      <td style=\"border: 1px solid #ffffff; padding: 8px; color: #ffffff;\"><strong>Book of 99<\/strong><\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 8px; color: #ffffff;\">Relax<\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 8px; color: #ffffff;\">99.00%<\/td>\n    <\/tr>\n    <tr style=\"background-color: #1c1e29;\">\n      <td style=\"border: 1px solid #ffffff; padding: 8px; color: #ffffff;\"><strong>Big Bass Splash<\/strong><\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 8px; color: #ffffff;\">Pragmatic<\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 8px; color: #ffffff;\">96.71%<\/td>\n    <\/tr>\n  <\/tbody>\n<\/table>\n\n<h3>Exclusive Provably Fair Originals<\/h3>\n<p>In addition to traditional casino games, we proudly present our exclusive collection of Rainbet Originals. These bespoke games are built entirely in-house using cutting-edge blockchain technology to ensure absolute transparency. The provably fair algorithm utilizes a cryptographic hash function comprising a server seed, a client seed, and a nonce. This cryptographic proof empowers you to independently verify the outcome of every single round, confirming that the results were not manipulated after your wager was placed. These games are designed for fast-paced, high-frequency betting, making them a staple for crypto enthusiasts.<\/p>\n\n<ul style=\"padding-left: 25px; margin-bottom: 15px; list-style-position: outside;\">\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\">\n    <strong>Plinko:<\/strong> Inspired by the classic game show, you drop a ball down a pegged pyramid, watching it bounce into various multiplier slots at the bottom. You can customize your risk level by adjusting the number of rows and the volatility of the multipliers, allowing for highly strategic betting patterns.\n  <\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\">\n    <strong>Mines:<\/strong> A strategic grid-based game where your goal is to uncover hidden gems while avoiding explosive mines. You decide how many mines to place on the board, directly influencing the payout multipliers. You can cash out at any time, adding a thrilling layer of risk management to every click.\n  <\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\">\n    <strong>Crash:<\/strong> This adrenaline-pumping game features an increasing multiplier curve that can crash at any unpredictable moment. Your objective is to cash out your wager before the crash occurs. With multipliers capable of reaching extraordinary heights, this game demands perfect timing and nerves of steel.\n  <\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\">\n    <strong>Dice:<\/strong> A streamlined, pure-odds game that allows you to set your exact winning probability and target multiplier. You predict whether the next roll will land over or under a specific number, offering complete control over your risk-to-reward ratio for calculated betting strategies.\n  <\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\">\n    <strong>Keno:<\/strong> A fast-paced lottery-style game where you select a set of numbers and hope they match the randomly drawn results. Our in-house version offers customizable risk levels and rapid drawing phases, providing instant gratification and seamless gameplay for lottery fans.\n  <\/li>\n<\/ul>\n\n<h3>Immersive Live Dealer Experience<\/h3>\n<p>For Australian players seeking the authentic atmosphere of a land-based casino without leaving their homes, our Live Casino section delivers unparalleled immersion. Broadcasted in crystal-clear High Definition from professional studios across Europe, these games are hosted by highly trained, English-speaking dealers. We have partnered with industry giants like Evolution Gaming and Pragmatic Play Live to offer an extensive array of classic table games and innovative game shows. The interactive chat features allow you to communicate with the dealers and fellow players, creating a vibrant, social environment that perfectly replicates the brick-and-mortar experience.<\/p>\n\n<p>Our live dealer platform also incorporates advanced statistical tracking and customizable betting interfaces. If you are a serious roulette player, you can save your favorite betting patterns for instant placement, while baccarat enthusiasts can utilize comprehensive roadmaps to track the history of the shoe. The video feeds automatically adjust their quality based on your internet connection speed, guaranteeing an uninterrupted, buffer-free stream even when playing on cellular data networks across Australia.<\/p>\n\n<ul style=\"padding-left: 25px; margin-bottom: 15px; list-style-position: outside;\">\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\">\n    <strong>Live Blackjack:<\/strong> Experience the ultimate test of skill and luck across dozens of tables, ranging from low-stakes classic games to exclusive VIP salons. Features like Bet Behind, Perfect Pairs, and 21+3 side bets add extra layers of excitement, while Infinite Blackjack ensures you never have to wait for a seat.\n  <\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\">\n    <strong>Live Roulette:<\/strong> Watch the wheel spin in real-time with multiple camera angles capturing every bounce of the ball. We offer European, American, and French variations, along with thrilling modern twists like Lightning Roulette, which applies massive random multipliers up to 500x to straight-up numbers.\n  <\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\">\n    <strong>Live Baccarat:<\/strong> Enjoy the sophisticated elegance of James Bond's favorite game with standard, Speed, and No Commission variations. Our Baccarat Squeeze tables feature dramatic card reveals, enhancing the suspense of every hand, while detailed roadmaps help you track trends and patterns.\n  <\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\">\n    <strong>Interactive Game Shows:<\/strong> Blending the mechanics of traditional casino gaming with television show entertainment, titles like Crazy Time, Monopoly Live, and Mega Wheel offer unique, highly interactive gameplay. These games feature charismatic hosts, spectacular virtual studios, and massive bonus round multipliers.\n  <\/li>\n<\/ul>\n\n<h3>Can I play casino games on my mobile in Australia?<\/h3>\n<p>Yes, our entire platform is fully optimized for mobile devices, allowing you to play seamlessly on iOS and Android smartphones.<\/p>\n<p>We recognize that the majority of modern Australian players prefer the convenience of mobile gaming. Instead of requiring you to download a cumbersome application, our platform is built on advanced HTML5 technology. This ensures that the website automatically scales and adapts to perfectly fit your specific screen size and resolution. Whether you are spinning the latest Megaways pokies, interacting with live dealers, or managing your cryptocurrency wallet, the mobile interface is highly responsive and incredibly intuitive. You can expect identical game performance, secure banking protocols, and full access to customer support while playing on the go.<\/p>\n\n<h3>RNG Certification and Fair Play<\/h3>\n<p>Maintaining a secure and trustworthy gaming environment is our absolute top priority. Beyond our proprietary provably fair system for Rainbet Originals, every single third-party game in our extensive library undergoes rigorous testing by independent auditing agencies. Organizations such as eCOGRA and iTech Labs regularly evaluate the underlying Random Number Generator algorithms to verify that all outcomes are entirely statistically random and unbiased. Furthermore, our Anjouan eGaming license mandates strict regulatory oversight, ensuring that we maintain sufficient financial reserves to pay out all player winnings promptly. When you choose our platform, you are choosing a highly secure, verified, and fundamentally fair online gambling destination tailored specifically for the Australian market.<\/p>\n"
+                    }
+                },
+                "softwareProviders": {
+                    "title": "Software Providers"
+                },
+                "custom_2": {
+                    "customHtml_2": {
+                        "title": "Crypto Banking & Rewards for Australians",
+                        "description": "<h2>Crypto Banking & Rewards for Australians<\/h2>\n\n<p>Navigating the financial aspects of an online casino should be effortless, secure, and incredibly fast. As a premier crypto-first gambling platform tailored for the Australian market, we have revolutionized the banking experience by completely eliminating the delays and restrictions associated with traditional fiat payment processors. By embracing blockchain technology, we provide our Aussie players with unparalleled privacy, minimal transaction fees, and instantaneous processing times. Coupled with our industry-leading promotional structure, which includes a massive multi-tiered welcome package and continuous rakeback rewards, our platform is designed to maximize your value and elevate your overall gaming experience. Every transaction is safeguarded by advanced cryptographic protocols, ensuring your funds remain completely secure.<\/p>\n\n<h3>Seamless Cryptocurrency Deposits<\/h3>\n<p>We fully support the modern digital economy by accepting a diverse array of over 20 top-tier cryptocurrencies. This extensive integration allows Australian players to choose the digital asset that best fits their investment strategy and transaction speed preferences. Depositing funds into your casino account is incredibly straightforward: simply copy your unique, randomly generated deposit address or scan the provided QR code using your personal crypto wallet. Because transactions are processed directly on the blockchain, there are no banking holidays, no institutional oversight, and absolutely no geo-blocking restrictions. Your funds are entirely in your control from the moment you initiate the transfer.<\/p>\n\n<ul style=\"padding-left: 25px; margin-bottom: 15px; list-style-position: outside;\">\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\">\n    <strong>Bitcoin (BTC):<\/strong> As the pioneering and most widely recognized cryptocurrency, Bitcoin offers unmatched network security and immense liquidity. While network confirmations might take slightly longer during peak periods, it remains the absolute gold standard for high-roller deposits and large-scale gambling.\n  <\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\">\n    <strong>Ethereum (ETH):<\/strong> Utilizing advanced smart contract technology, Ethereum provides a robust and highly reliable transaction network. It is extremely popular among our Australian user base, offering faster block times than Bitcoin while maintaining exceptional decentralization and security.\n  <\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\">\n    <strong>Tether (USDT):<\/strong> For players who want to avoid the inherent price volatility of the broader crypto market, this fiat-pegged stablecoin provides absolute stability. Depositing with USDT ensures that your gambling bankroll retains its exact underlying fiat value, protecting you from sudden market fluctuations.\n  <\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\">\n    <strong>Solana (SOL):<\/strong> Operating on one of the fastest blockchains in the world, Solana offers near-instantaneous transaction speeds and phenomenally low network fees. This makes it the perfect choice for Aussie players who want to move funds quickly and efficiently without paying high gas costs.\n  <\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\">\n    <strong>Litecoin (LTC):<\/strong> Often referred to as the silver to Bitcoin's gold, Litecoin utilizes a modified cryptographic algorithm that processes blocks four times faster than the Bitcoin network. It provides a reliable, cost-effective alternative for everyday deposits and routine casino transactions.\n  <\/li>\n<\/ul>\n\n<h3>How fast are crypto withdrawals processed?<\/h3>\n<p>Crypto withdrawals are processed automatically and typically reach your personal wallet within 2 to 10 minutes.<\/p>\n<p>We firmly believe that when you win, you deserve immediate access to your funds. Unlike traditional online casinos that enforce mandatory pending periods, request endless documentation for every payout, or subject you to slow bank wire delays, our automated withdrawal system operates 24\/7\/365. Once you submit a withdrawal request, our smart contracts verify the transaction and broadcast it directly to the respective blockchain network. The only waiting time depends strictly on the specific coin's network confirmation speed. For instance, Solana and USDT transactions are usually finalized in mere seconds, ensuring that Australian players can enjoy their winnings with unprecedented speed and efficiency.<\/p>\n\n<table style=\"width: 100%; border-collapse: collapse; margin: 20px auto; font-size: 14px;\">\n  <thead>\n    <tr style=\"background-color: #1884e1;\">\n      <th style=\"border: 1px solid #ffffff; padding: 8px; text-align: left; color: #ffffff; font-weight: bold;\">Coin<\/th>\n      <th style=\"border: 1px solid #ffffff; padding: 8px; text-align: left; color: #ffffff; font-weight: bold;\">Min<\/th>\n      <th style=\"border: 1px solid #ffffff; padding: 8px; text-align: left; color: #ffffff; font-weight: bold;\">Speed<\/th>\n    <\/tr>\n  <\/thead>\n  <tbody>\n    <tr style=\"background-color: #1c1e29;\">\n      <td style=\"border: 1px solid #ffffff; padding: 8px; color: #ffffff;\"><strong>Bitcoin<\/strong><\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 8px; color: #ffffff;\">$15<\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 8px; color: #ffffff;\">10 Min<\/td>\n    <\/tr>\n    <tr style=\"background-color: #252836;\">\n      <td style=\"border: 1px solid #ffffff; padding: 8px; color: #ffffff;\"><strong>Ethereum<\/strong><\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 8px; color: #ffffff;\">$15<\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 8px; color: #ffffff;\">5 Min<\/td>\n    <\/tr>\n    <tr style=\"background-color: #1c1e29;\">\n      <td style=\"border: 1px solid #ffffff; padding: 8px; color: #ffffff;\"><strong>Solana<\/strong><\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 8px; color: #ffffff;\">$15<\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 8px; color: #ffffff;\">Instant<\/td>\n    <\/tr>\n    <tr style=\"background-color: #252836;\">\n      <td style=\"border: 1px solid #ffffff; padding: 8px; color: #ffffff;\"><strong>USDT<\/strong><\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 8px; color: #ffffff;\">$15<\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 8px; color: #ffffff;\">Instant<\/td>\n    <\/tr>\n    <tr style=\"background-color: #1c1e29;\">\n      <td style=\"border: 1px solid #ffffff; padding: 8px; color: #ffffff;\"><strong>Dogecoin<\/strong><\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 8px; color: #ffffff;\">$15<\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 8px; color: #ffffff;\">2 Min<\/td>\n    <\/tr>\n  <\/tbody>\n<\/table>\n\n<h3>Lucrative Welcome Bonus Package<\/h3>\n<p>To ensure you start your journey on the right foot, we offer an extraordinarily generous welcome bonus specifically tailored for our new Australian members. This multi-stage package is designed to significantly boost your initial bankroll, providing you with ample resources to explore our massive library of over 6,000 games. Upon completing your registration, you become eligible for a massive 250% deposit match totaling up to AU$2,100, combined with 60 complimentary free spins on our highest-rated pokies. We maintain complete transparency regarding our bonus terms, featuring fair, industry-standard wagering requirements and clearly defined maximum bet limits during active bonus periods.<\/p>\n\n<ul style=\"padding-left: 25px; margin-bottom: 15px; list-style-position: outside;\">\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\">\n    <strong>First Deposit Match:<\/strong> Kickstart your experience with a powerful 100% match bonus on your very first deposit, effectively doubling your starting balance. This initial boost allows you to immediately test high-volatility pokies or explore our exclusive Provably Fair Originals with significantly reduced personal risk.\n  <\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\">\n    <strong>Second Deposit Boost:<\/strong> The rewards continue with your second deposit, where we apply a solid 50% reload bonus. This ensures that even if your first session did not end in a massive jackpot, you still have a highly subsidized bankroll ready for another thrilling round of action.\n  <\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\">\n    <strong>Third Deposit Finale:<\/strong> We cap off the welcome package with another massive 100% match bonus on your third deposit. Combined with the included free spins on premier Pragmatic Play slots, this final tier cements our commitment to providing continuous, high-value incentives to our Australian players.\n  <\/li>\n<\/ul>\n\n<h3>VIP Program and Continuous Rewards<\/h3>\n<p>Our commitment to player satisfaction extends far beyond the initial welcome package. We have developed a comprehensive, highly rewarding VIP ecosystem designed to give back to our most loyal Australian players. Instead of forcing you to rely on sporadic promotional emails, our platform features a built-in, automated rewards system that continuously tracks your wagering activity. The more you play, the faster you climb our prestigious VIP ranks, unlocking progressively larger benefits, exclusive account privileges, and personalized support. From daily cash drops to competitive leaderboard tournaments, our ecosystem ensures that every single wager contributes to your overall profitability.<\/p>\n\n<ul style=\"padding-left: 25px; margin-bottom: 15px; list-style-position: outside;\">\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\">\n    <strong>Automated Rakeback System:<\/strong> We offer an industry-leading daily and weekly rakeback program that automatically returns a percentage of the house edge directly to your wallet. This mathematically verifiable cashback is credited regardless of whether your gaming sessions end in a win or a loss.\n  <\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\">\n    <strong>Weekly Raffles and Races:<\/strong> Engage in thrilling, community-driven competitions where you can climb the leaderboards simply by playing your favorite pokies or live dealer games. Our weekly races feature massive, guaranteed crypto prize pools distributed among the top-performing Aussie players.\n  <\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\">\n    <strong>Level-Up Bonuses:<\/strong> Every time you cross the threshold into a new VIP tier, you receive an instant, wager-free crypto cash drop as a token of our appreciation. These milestone rewards scale exponentially, culminating in massive payouts for players who reach the highest echelons of our program.\n  <\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\">\n    <strong>Dedicated VIP Hosts:<\/strong> Elite players are assigned a personal, highly trained account manager available around the clock via private messaging channels. Your dedicated host handles expedited withdrawals, custom-tailored bonus offers, and any specialized requests you might have.\n  <\/li>\n<\/ul>\n\n<h3>Are my crypto funds secure on this platform?<\/h3>\n<p>Yes, we employ state-of-the-art cold storage and 256-bit SSL encryption to guarantee total financial security.<\/p>\n<p>The security of your digital assets is the cornerstone of our operational philosophy. We utilize an institutional-grade security infrastructure that completely isolates the vast majority of player funds in disconnected, offline cold storage wallets. This creates an impenetrable physical barrier against potential cyber threats and hacking attempts. Furthermore, our website is fortified with advanced SSL 256-bit encryption, securing all incoming data and protecting your personal account credentials. We highly encourage all Australian players to activate Two-Factor Authentication (2FA) using apps like Google Authenticator, adding an essential, dynamic layer of personal security that ensures only you can access and withdraw your funds.<\/p>\n\n<h3>Dedicated Australian Customer Support<\/h3>\n<p>Understanding the unique time zones and specific needs of the Australian market, we maintain a dedicated customer service department that operates 24 hours a day, 7 days a week. Whether you have a complex inquiry regarding blockchain transaction hashes, need assistance claiming a specific bonus code, or simply want clarification on a game's rules, our highly trained support agents are always on standby. You can reach our team instantaneously via the live chat widget located in the bottom corner of your screen, where average response times are consistently under two minutes. For more detailed inquiries or standard KYC document submissions, our official email support channel provides thorough, comprehensive assistance directly to your inbox.<\/p>\n"
+                    }
+                },
+                "faq": {
+                    "title": "Frequently Asked Questions",
+                    "items": [
+                        {
+                            "title": "How do I claim my welcome bonus in Australia?",
+                            "answer": "Create an account and make your first crypto deposit of at least AU$30. Your 100% match bonus automatically credits to your balance within minutes. The full package covers your first three deposits, totaling up to AU$2,100 plus 60 free spins on selected pokies.\n"
+                        },
+                        {
+                            "title": "What cryptocurrencies are accepted for Australian players?",
+                            "answer": "We accept over 20 major cryptocurrencies including Bitcoin, Ethereum, USDT, Solana, Dogecoin, and Litecoin. All deposits are processed directly on the blockchain, ensuring zero banking restrictions and immediate access to your funds for real-money gaming.\n"
+                        },
+                        {
+                            "title": "How long do crypto withdrawals take to process?",
+                            "answer": "Crypto withdrawals process automatically and typically reach your personal wallet within 2 to 10 minutes. The exact speed depends entirely on the specific blockchain network's confirmation times, with options like Solana and USDT offering near-instantaneous transfers.\n"
+                        },
+                        {
+                            "title": "Are the casino games provably fair and tested?",
+                            "answer": "Yes, our exclusive Rainbet Originals utilize a cryptographic hash system allowing you to independently verify the fairness of every round. Additionally, all third-party pokies and table games are rigorously tested by independent auditors like iTech Labs for certified RNG outcomes.\n"
+                        },
+                        {
+                            "title": "Can I play live dealer games on my mobile phone?",
+                            "answer": "Absolutely. Our entire live casino lobby, featuring titles from Evolution Gaming and Pragmatic Play Live, is fully optimized for iOS and Android devices. You can enjoy HD streaming, interactive chat, and seamless betting interfaces directly from your mobile browser.\n"
+                        },
+                        {
+                            "title": "Do you require KYC verification for crypto withdrawals?",
+                            "answer": "As a licensed Anjouan operator, we maintain a streamlined, privacy-focused approach. While basic crypto transactions often proceed without friction, standard KYC verification may be requested to comply with international security protocols and prevent fraudulent activity.\n"
+                        },
+                        {
+                            "title": "How does the daily rakeback reward system work?",
+                            "answer": "Our automated system calculates a percentage of the house edge from all your wagers and returns it directly to your account. This mathematically verifiable cashback is available daily, weekly, and monthly, rewarding your loyalty regardless of your gaming session's outcome.\n"
+                        }
+                    ]
+                }
+            }
+        }
+    ]
+}
